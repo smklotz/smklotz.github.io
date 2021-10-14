@@ -1,13 +1,13 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Hello, I am Shannon!
 content: >
-  # I am here for your personal business
+  # I'm here to help explain infant Psychology research in a manner that anyone can understand
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
+  Research is often inaccessible/misunderstood due to jargon, paywalls, and media spin. Here you'll
+  get an unbiased and straightforward view on current infant research. 
 buttonName: Contact me
 buttonURL: contact
-image: images/hero/2960351.jpg
-videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+image: images/hero/headshot.jpg
+videoThumb: images/hero/main-page-video-thumbnail.PNG
+videoURL: https://fb.watch/8DyockxALX/
