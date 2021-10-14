@@ -15,25 +15,15 @@ tab2Target: experience
 
 education:
   - content: >
-      #### Master in Arts
+      #### BA in Neuroscience, Scripps College, Cum Laude
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      FILLER TEXT HERE EXPLAINING YOUR UNDERGRAD DEGREE/EXPERIENCE
+    time: 2015-2019
   - content: >
-      #### Master in Arts
+      #### PhD in Psychology, UC Davis, ongoing
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      FILLER TEXT HERE EXPLAINING YOUR UNDERGRAD DEGREE/EXPERIENCE
+    time: 2021-present
 
 experience:
   - content: >
